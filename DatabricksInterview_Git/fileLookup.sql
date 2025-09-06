@@ -1,0 +1,1 @@
+SELECT * FROM dbinterview.source.filelookup;
